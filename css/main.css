@@ -495,7 +495,7 @@ a.active {
 /* ======= INTRODUCTION ======= */
 
 #intro {
-    background: url(../img/mountain-dusk.jpg);
+    background: url(../img/mountain-dusk2.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1220,7 +1220,7 @@ img#starry-logo {
     margin: 0 auto 10px;
 }
 
-img#cie-logo {
+img#arrow12 {
     width: 200px;
     margin: 0 auto 10px;
 }
