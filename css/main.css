@@ -331,16 +331,26 @@ a.active {
 
 
 /* ======= NAV BAR ======= */
+@media screen and (max-width:580px){
+nav ul li{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 15px;
+    text-align: center;
+
+      }
+}
 
 .light {
     font-weight: 300;
 }
 
-.nav > li {
+.nav li {
     font-size: 13px;
 }
 
 .navbar {
+    position: fixed;
     margin-bottom: 0;
     z-index: 999;
 }
